@@ -69,7 +69,11 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: Aravindkumar sasikumar samundi
  
  RegisterNumber: 212223110004 
- 
+
+ **Program**
+
+![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/a4d99b31-7688-4986-913e-12e95f014f32)
+
 **Logic symbol & Truthtable**
 
 ![image](https://github.com/Adchayakiruthika18/study-of-basic-gates/assets/147139995/ab3ad567-705b-454f-818b-2272609e7712)
